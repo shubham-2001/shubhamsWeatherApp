@@ -117,4 +117,7 @@ body{
         top: 70px;
         right: 50%;
     }
+    .search input{
+        font-size: 10px;
+        text-align: center;
 }
