@@ -101,3 +101,20 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+
+@media screen and (max-width: 600px ) {
+    .card{
+        height: 200px;
+        text-align: center;
+        width: 70%;
+    }
+    .search input{
+        width: 100%;
+    }
+    .search button{
+        position: relative;
+        top: 70px;
+        right: 50%;
+    }
+}
